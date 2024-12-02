@@ -1,2 +1,2 @@
-# niPGT
-This code is for paper "DNA methylome reveals cellular origin of cell-free DNA in spent medium of human preimplantation embryos". If you have any questions, please contact chenyidongahu@163.com.
+# niPGT  
+This code is associated with all papers related to "DNA methylome, cell-free DNA, spent medium of human preimplantation embryos, and niPGT." For any inquiries, please contact chenyidongahu@163.com.
